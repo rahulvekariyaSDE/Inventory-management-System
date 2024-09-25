@@ -1,0 +1,21 @@
+ProductId,ProductName,Price,Inventory
+1,Smartphone,200.0,100
+2,Laptop,899.49,50
+3,Headphones,49.99,200
+4,Smartwatch,199.95,150
+5,Bluetooth Speaker,75.59,120
+6,Gaming Mouse,29.99,180
+7,Wireless Keyboard,49.95,130
+8,External Hard Drive,69.99,90
+9,USB Flash Drive,15.99,300
+10,Webcam,59.99,75
+11,Monitor,179.49,60
+12,Tablet,249.99,80
+13,Printer,99.99,70
+14,Wireless Charger,25.59,250
+15,Power Bank,35.99,200
+16,Portable Speaker,45.49,140
+17,Action Camera,150.95,100
+18,Fitness Tracker,79.99,160
+19,VR Headset,349.95,40
+20,Drone,599.99,30

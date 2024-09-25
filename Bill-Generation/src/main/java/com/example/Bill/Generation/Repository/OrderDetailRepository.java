@@ -1,0 +1,7 @@
+package com.example.Bill.Generation.Repository;
+
+import com.example.Bill.Generation.Model.OrderDetail;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface OrderDetailRepository extends JpaRepository<OrderDetail, Long>{
+}
